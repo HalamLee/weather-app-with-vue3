@@ -8,6 +8,9 @@ module.exports = {
         'weather-secondary': '#004E71',
       },
     },
+    fontFamily: {
+      Roboto: ['Roboto, sans-serif'],
+    },
   },
   plugins: [],
 };
